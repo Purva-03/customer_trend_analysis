@@ -67,45 +67,71 @@ The dataset contains customer transaction details such as:
 
 ---
 
-### 3️⃣ Visualization (Power BI)
+## 📊 Visualization (Power BI)
 
-Developed an interactive dashboard including:
+An interactive dashboard was developed in Power BI to present key insights in a structured and visually appealing manner.
 
-#### 📊 KPI Metrics
+### 🔝 KPI Overview
 
-* Total Revenue
-* Total Customers
-* Average Order Value
-* Total Orders
-
-#### 📈 Customer Insights
-
-* Revenue by Gender
-* Revenue by Age Group
-* Customer Segmentation (New / Returning / Loyal)
-
-#### 🛍️ Product Analysis
-
-* Top Selling Products
-* Category-wise Revenue
-
-#### ⚙️ Behavioral Insights
-
-* Discount Impact
-* Shipping Type Analysis
-* Payment Method Distribution
-
-#### 📉 Churn Analysis
-
-* Identification of churn-risk customers
-* Churn rate calculation
-
-#### 📅 Trends
-
-* Monthly revenue trends
-* Seasonal sales patterns
+* **Total Revenue** → Overall revenue generated from all transactions
+* **Total Customers** → Unique customer count
+* **Total Orders** → Total number of transactions
+* **Churn Rate** → Percentage of customers at risk based on low purchase frequency
 
 ---
+
+### 🛍️ Product Performance
+
+* **Top 10 Items by Revenue (Bar Chart)**
+  Displays the highest revenue-generating products, helping identify best-selling items.
+
+* **Category-wise Revenue (Column Chart)**
+  Shows revenue contribution across product categories such as Clothing, Accessories, Footwear, and Outerwear.
+
+---
+
+### 🧑‍💼 Customer Insights
+
+* **Revenue by Age Group (Bar Chart)**
+  Highlights which age segments contribute the most to total revenue.
+
+* **Sales Count by Age Group (Bar Chart)**
+  Represents the number of purchases across different age groups, enabling comparison between volume and revenue.
+
+---
+
+### 🎛️ Interactive Filters (Slicers)
+
+* **Category Filter** → Enables analysis by product type
+* **Season Filter** → Helps identify seasonal purchasing trends
+
+---
+
+### 🎨 Dashboard Design Features
+
+* Clean and consistent color theme
+* Structured layout (KPI → Product → Customer insights)
+* Easy-to-understand visual hierarchy
+* Interactive filtering for dynamic analysis
+
+---
+
+### 💡 Key Value
+
+This dashboard allows users to quickly answer:
+
+* *Which products generate the most revenue?*
+* *Which customer segments are most valuable?*
+* *How does revenue vary across categories and age groups?*
+
+---
+
+### 📷 Dashboard Preview
+
+*(Insert the screenshot of your dashboard here)*
+
+---
+
 
 ## 📊 Key Insights
 
@@ -130,7 +156,7 @@ Developed an interactive dashboard including:
 
 ## 📌 Dashboard Features
 
-* Interactive slicers (Category, Age Group, Gender, Season)
+* Interactive slicers (Category, Season)
 * Clean and structured layout
 * Business-driven visualizations
 * Real-time filtering capability
@@ -139,9 +165,8 @@ Developed an interactive dashboard including:
 
 ## 📷 Dashboard Preview
 
-*(Add your Power BI screenshot here)*
+<img width="1165" height="658" alt="image" src="https://github.com/user-attachments/assets/cae87f90-69a7-4100-ba60-12af0785dd51" />
 
----
 
 ## 🔥 Project Highlights
 
@@ -156,11 +181,4 @@ Developed an interactive dashboard including:
 
 This project demonstrates the ability to transform raw data into actionable insights using modern data analytics tools. It reflects practical skills required for a **Data Analyst role**, including data cleaning, SQL querying, and dashboard development.
 
----
 
-## 🙌 Author
-
-**Purva Santosh Thakur**
-B.E. Artificial Intelligence & Data Science
-
----
